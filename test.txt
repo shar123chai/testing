@@ -1,3 +1,2 @@
-Hi, my first commit;
-
+Changing your first commit!
 Changing the additional line.
